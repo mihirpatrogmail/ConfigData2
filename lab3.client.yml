@@ -2,5 +2,3 @@
 spring
   profiles: mihir1
 lucky-word: Mihir
-
-git remote set-url origin https://mihirpatrogmail@github.com/user/repo.git
