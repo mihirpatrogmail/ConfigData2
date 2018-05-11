@@ -2,17 +2,5 @@
 spring
   profiles: mihir1
 lucky-word: Mihir
----
-spring
-  profiles: mihir2
-lucky-word: Mihir Kumar 
----
-spring
-  profiles: mihir3
-lucky-word: Mihir Kumar Patro
----
-spring
-  profiles: mihir4
-lucky-word: Mihir Kumar Patro Bapi
 
-git remote set-url origin https://mihirpatro@github.com/user/repo.git
+git remote set-url origin https://mihirpatrogmail@github.com/user/repo.git
